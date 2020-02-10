@@ -1,6 +1,6 @@
 ---
 templateKey: about-page
-title: About our values
+title: About this blog
 ---
 I post mostly tiny blogs about some Software Engineering principles, Operating Systems, Frameworks, Technologies and their related concepts which I feel were useful for me during my journey as a Software Engineer and hopefully, would be useful for you too.
 
