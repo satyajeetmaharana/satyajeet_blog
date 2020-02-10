@@ -3,7 +3,7 @@ templateKey: index-page
 title: Satyajeet's Blog
 image: /img/home-jumbotron.jpg
 heading: Satyajeet's Blog
-subheading: Support sustainable farming while enjoying a cup
+subheading: A place for quick how-tos & whys
 mainpitch:
   title: Why this blog?
   description: >-
