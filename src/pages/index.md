@@ -11,7 +11,7 @@ mainpitch:
     Operating Systems, Frameworks, Technologies and their related concepts which
     I feel were useful for me during my journey as a Software Engineer and
     hopefully, would be useful for you too.
-description: '***'
+description: '“Life is really simple, but we insist on making it complicated.” - Confucius'
 intro:
   blurbs:
     - image: /img/coffee.png
