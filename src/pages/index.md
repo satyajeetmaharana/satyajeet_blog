@@ -15,37 +15,26 @@ description: KISS principle
 intro:
   blurbs:
     - image: /img/coffee.png
-      text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+      text: >-
+        I like to follow the [KISS
+        principle](https://en.wikipedia.org/wiki/KISS_principle). Hence, most of
+        the guides, tutorials or any stuff on this blog are as intuitive as
+        possible.
     - image: /img/coffee-gear.png
-      text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - image: /img/tutorials.png
-      text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/meeting-space.png
-      text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
-  heading: KISS principle
+      text: >-
+        I like to learn and try new things by doing hands-on experiments with
+        them (read *Googling & failing a LOT*). Sometimes I find really
+        easy-to-follow resources, sometimes I don't. For the times I don't, I
+        like to pen down my research and post it here to give you an abstracted
+        & simpler (read *NO BULLSHIT*) guide to certain things. I hope these
+        blogs help you, like the way I am being helped by the many other blogs
+        online.
+  heading: Satyajeet's Blog
   description: >-
-    I like to follow the [KISS
-    principle](https://en.wikipedia.org/wiki/KISS_principle). Hence, most of the
-    guides, tutorials or any stuff on this blog are as intuitive as possible.
+    I post mostly tiny blogs about some Software Engineering principles,
+    Operating Systems, Frameworks, Technologies and their related concepts which
+    I feel were useful for me during my journey as a Software Engineer and
+    hopefully, would be useful for you too.
 main:
   heading: Great coffee with no compromises
   description: >
