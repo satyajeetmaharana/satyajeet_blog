@@ -3,7 +3,7 @@ templateKey: index-page
 title: Satyajeet's Blog
 image: /img/home-jumbotron.jpg
 heading: Satyajeet's Blog
-subheading: A place for quick how-tos & whys
+subheading: Tech/weird/random/interesting stuff!!
 mainpitch:
   title: Why this blog?
   description: >-
